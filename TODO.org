@@ -1,0 +1,2 @@
+* TODO impl the algorithm some distance thing then rng and flipping bits something, something else.
+* TODO make it a cli and change to using args from the command line
